@@ -1,0 +1,32 @@
+.header-photo {
+    display: flex;
+    padding: 1%;
+    justify-content: space-between;
+  
+}
+
+.header-photo a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.header2 {
+    font-weight: bold;
+    border-radius: 4px;
+    background-color: #86edfd;
+    border: 1px solid #86edfd;
+    margin-right: 1%;
+}
+
+.header-album-container {
+    width: 37%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-album {
+    display: flex;
+    flex: 1;
+    align-items: center;
+  
+}
